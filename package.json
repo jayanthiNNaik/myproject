@@ -1,14 +1,14 @@
 {
-  "name": "mongoose-schema-reference-sample",
+  "name": "mongoose-schema-sample",
   "version": "1.0.0",
-  "description": "Shows the usage of mongoose Schema referencing",
+  "description": "Shows the usage of mongoose Schema",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlexZeitler/mongoose-schema-reference-sample.git"
+    "url": ""
   },
   "keywords": [
     "mongoose",
@@ -17,11 +17,7 @@
   ],
   "author": "Alexander Zeitler",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/AlexZeitler/mongoose-schema-reference-sample/issues"
-  },
-  "homepage": "https://github.com/AlexZeitler/mongoose-schema-reference-sample",
   "dependencies": {
-    "mongoose": "^3.8.22"
+    "mongoose": "^5.7.5"
   }
 }
